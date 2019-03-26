@@ -2,7 +2,9 @@
 Cleans an SQL query written in Xojo off its line breaks and quotes.
 
 How to build (Racket 6.12 or newer):
+<pre>
 raco exe xojo-sql-query-cleaner.rkt
+</pre>
 
 How to use:
 1) copy the SQL query with quotes and linefeeds from Xojo to your clipboard;
