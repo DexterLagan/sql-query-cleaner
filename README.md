@@ -1,9 +1,9 @@
-# xojo-sql-query-cleaner
-Cleans an SQL query written in Xojo off its line breaks and quotes.
+# sql-query-cleaner
+Cleans an SQL query off its line breaks and quotes.
 
 How to build (Racket 6.12 or newer):
 <pre>
-raco exe xojo-sql-query-cleaner.rkt
+raco exe sql-query-cleaner.rkt
 </pre>
 
 How to use:
