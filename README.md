@@ -8,5 +8,10 @@ raco exe sql-query-cleaner.rkt
 
 How to use:
 1) copy the SQL query with quotes and linefeeds from Xojo to your clipboard;
-2) run xojo-sql-query-cleaner;
+2) run sql-query-cleaner;
 3) paste the clean SQL string into your favorite SQL query tester.
+
+Cheers,
+
+Dexter Santucci<br>
+Ottawa, April 2019
